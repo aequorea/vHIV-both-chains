@@ -7,6 +7,9 @@ An HIV vaccine (preliminary)
   vHIV (salmon and red) shown bound to N6 heavy and light chains (blue and yellow)
 </p>
 <p align="center">
+  Potential glycosylation sites on gp120 are shown in red.
+</p>
+<p align="center">
   (based on 5TE4.PDB -- DOI:10.1016/j.immuni.2016.10.027)
 </p>
 <p>
