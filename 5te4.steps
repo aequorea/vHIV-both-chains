@@ -1,0 +1,19 @@
+5te4 steps (using pymol)
+------------------------
+
+download 5te4.pdb from rcsb.org
+run resren.py to create 5te4ren.pdb (renumber residues and remove alternate atom locations)
+load 5te4ren.pdb in pymol
+position molecule to closely match orientation of zHIV illustration
+save as vHIV.pdb
+
+type findSurfaceResidues
+save atoms as vHIV_exposed_atm.pdb
+save residues as vHIV_exposed_res.pdb
+select helix, ss H
+save as vHIV_helix.pdb
+select sheet, ss S
+save as vHIV_sheet.pdb
+modify gly21 file_prefix="vHIV"
+modify gly21 chains="G"
+run gly21.py
