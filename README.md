@@ -1,5 +1,5 @@
 # vHIV
-An HIV vaccine (illustration)
+An HIV vaccine (illustrating designed glycosylation as a means to focus immunogenicity)
 <p align="center">
   <img src="vHIV.png" width="500"/>
 </p>
